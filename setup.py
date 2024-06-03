@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='foo_param',
+    name='joel_b_foo_param',
     version='0.1',
     packages=find_packages(),
     install_requires=[
