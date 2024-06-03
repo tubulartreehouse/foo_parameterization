@@ -6,7 +6,10 @@ def validate_radius(radius):
     radius (float): Radius of the sphere
     
     Returns:
-    bool: True if radius is valid, else False
+    none
+
+    Raises:
+    ValueError: If the radius is not a positive number.
     """
     if radius <= 0:
         raise ValueError("Radius must be a positive number.")
