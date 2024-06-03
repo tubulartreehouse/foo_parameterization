@@ -2,7 +2,7 @@
 
 A package for the Foo et al. parameterization, which calculates the volume of a sphere given its radius.
 
-Note: By default, PI is defined as: 3.14159265359
+sample project for UCAR REQ-2024-114 Software Engineer I position
 
 ## Installation
 
