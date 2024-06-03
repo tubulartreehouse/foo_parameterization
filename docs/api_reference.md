@@ -46,7 +46,7 @@ none
 ValueError: If the radius is not a positive number.
 
 #### Example: 
-```
+```python
 from foo_param.utils import validate_radius
 
 # Validate a radius value
