@@ -18,4 +18,4 @@ You can test with existing unit tests using the following command:
 
 You can play around with foo paramaterization using Jupyter Notebook using the 'example_usage.ipynb' file - must have jupyter installed
 
-documentation [here](https://github.com/tubulartreehouse/foo_parameterization/blob/main/docs/api_reference.md)
+api documentation [here](https://github.com/tubulartreehouse/foo_parameterization/blob/main/docs/api_reference.md)
