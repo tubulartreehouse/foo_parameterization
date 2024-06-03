@@ -40,7 +40,10 @@ Validates a given radius
 radius (float): The given radius of a sphere
 
 #### Returns:
-boolean: if the given radius is true or not
+none
+
+#### Raises:
+ValueError: If the radius is not a positive number.
 
 #### Example: 
 ```
